@@ -1,3 +1,7 @@
+NAME:P.DHARSHINI
+
+REG.NO:212225040071
+
 # Ex. No:1b 			Study of Client Server Chat Applications
 
 ## Aim: 
